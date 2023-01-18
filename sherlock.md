@@ -4,7 +4,7 @@ Sherlock Holmes, Pan-Dimensional Dream Detective
 A universal character for authorial self insertion. (Early Release Announcement)
 
 # Premise
-Sherlock Holmes, in the Public Domain as of January 1, 2023. Now available for remix in stories everywhere. Consider Sherlock Holmes, Pan-Dimensional Dream Detective any time you need to place yourself (the author) in a story that needs further explanation. For all your handwavy, retconning needs. Preternaturally aware solvers-of-mysteries exist throughout popular media. Unfortunately, Peter Falk's Detective Columbo, Alexandra Billings' Inspector Lowbeer, Daniel Craig's Benoit Blanc, and many other iconic characters are all benedict encumberbatched by copywrite law.
+Sherlock Holmes, in the Public Domain as of January 1, 2023. Now available for remix in stories everywhere. Consider Sherlock Holmes, Pan-Dimensional Dream Detective any time you need to place yourself (the author) in a story that needs further explanation. For all your handwavy, retconning needs. Preternaturally aware solvers-of-mysteries exist throughout popular media. Unfortunately, Peter Falk's Detective Columbo, Alexandra Billings' Inspector Lowbeer, Daniel Craig's Benoit Blanc, and many other iconic characters are all benedict encumberbatched by copyright law.
 
 # Example Use
 If you ever agree to explain how Finite State Machines are similar to [flipping mattresses](https://archive.nytimes.com/opinionator.blogs.nytimes.com/2010/05/02/group-think/), Sherlock Holmes, Pan-Dimensional Dream Detective may be right for you.
