@@ -8,10 +8,11 @@ Steamboat Willie, in the Public Domain as of January 1, 2024. Where does he come
 Now available for remix in stories everywhere. 
 Consider that Steamboat Willie, starring a famous rat-presenting deck swab, introduced in media res circa 1928, is not a talkie. There is no dialogue, but the combination of moving picture and sound is in full display as an experimental medium. Most of the sound effects could be reproduced reliably in a theater, with different performers in different cities. Was the script an artifact of Vaudeville methods, adapted to silent film, to describe sequences of hijinks that could be performed / improvised night after night? As unpublished corporate artifacts, is it known whether production notes exist, unseen by public eye? Where are these questions going? Does it matter? No! This is a narrative framework -- not a story.
 
-edit: one thing neither the short story nor the movie seem to explore, is whether/how the waveforms of the spoken Heptapod language are symmetrical. Did the recordings of utterance play the same forwards as backwards? Is there some other n-dimensional way to express additional kinds of symmetry for audio, other than time reversal? (What does the average audience-goer know of the Ways & Means of the Sacred Harp?)
 
 # Example Use
 If you want to understand and describe Accessibility in more accessible terms, what modalities (beyond text) can you consider for a mind that is not your own? If you are sighted, you can imagine explaining what you see to someone who is visually impaired. If you are not sighted, you can also imagine this. Ted Chiang posits Heptapod A and Heptapod B as two languages, one written and one spoken. They are rather different than each other, but exhibit properties that are plausibly consistent with deity-like entities who exist outside of time as conceived by humans. Personally, this writer does not have omniscient, or even partially scient Future Vision. Do you?
+
+edit: one thing neither the short story nor the movie seem to explore, is whether/how the waveforms of the spoken Heptapod language are symmetrical. Did the recordings of utterance play the same forwards as backwards? Is there some other n-dimensional way to express additional kinds of symmetry for audio, other than time reversal? (What does the average audience-goer know of the Ways & Means of the Sacred Harp?)
 
 # Selection of "facts" about the RGB Stackiverse
 
